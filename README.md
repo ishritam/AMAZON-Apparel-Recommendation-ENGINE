@@ -1,5 +1,5 @@
 # AMAZON-Apparel-Recommendation-ENGINE
-Recommending similar products (apparel) to the given product (apparel) in any e-commerce websites.
+Recommending similar products (apparel) to the given product (apparel) in amazon e-commerce websites.
 
 ![image](https://user-images.githubusercontent.com/40149802/64980302-2d3c3700-d8d7-11e9-99d4-0de844dfcb05.png)
 
